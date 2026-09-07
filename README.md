@@ -1,7 +1,18 @@
 # code-in-evolution-
 
-
+# Greeting
 name = input("Enter your name: ")
 
 print("Hello,", name + "!")
 print("Welcome to Python programming!")
+
+# Basic calculator 
+
+num1=int(input("Enter 1st number"))
+num2=int(input("Enter 2nd number"))
+
+answer=num1+num2
+
+print("The answer is:",answer)
+
+
