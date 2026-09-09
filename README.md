@@ -23,3 +23,8 @@ if age >= 18:
     print("You can vote")
 else:
     print("You cannot vote yet")
+
+#loops
+
+for number in range(1, 11):
+    print(number)
