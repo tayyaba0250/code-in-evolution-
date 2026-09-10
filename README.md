@@ -28,3 +28,11 @@ else:
 
 for number in range(1, 11):
     print(number)
+
+#Learning how to organize and reuse code
+
+def greet():
+    print("Hello!")
+    print("Welcome to Python")
+
+greet()
